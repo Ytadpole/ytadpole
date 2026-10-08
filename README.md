@@ -45,19 +45,6 @@
 
 ---
 
-## GitHub Stats / 统计数据
-
-<div align="center">
-
-[![ytadpole's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytadpole&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ytadpole)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytadpole&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/ytadpole)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ytadpole&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 **Thanks for stopping by! · 感谢访问！**
